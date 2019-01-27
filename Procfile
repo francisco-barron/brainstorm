@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* GreatIdeas
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* greatideas
